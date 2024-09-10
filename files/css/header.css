@@ -2,6 +2,13 @@ header {
     overflow: auto;
 }
 
+#navbar {
+    position: sticky;
+    top: 35px;
+    z-index: 1000;
+    background-color: #ffffff;
+}
+
 #wustl-branding {
     background-color: #a51417;
     height: 2.625rem;
